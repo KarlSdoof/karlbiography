@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Biography</title>
+    <link rel="stylesheet" href="styles.css"> <!-- External CSS -->
+    <style> 
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #000000;
+            text-align: center;
+        }
+        h2, h3 {
+            color: #000000;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Journey Through Life</h1>
+
+        <h2>Childhood Years</h2>
+        <p><sup>1</sup> My childhood was filled with adventure and curiosity. <b>I loved exploring</b> the world around me. <sup>2</sup> I was always fascinated by nature and animals. <sup>3</sup> One of my favorite activities was playing outside with my friends...</p>
+        
+        <h2>Teenage Years</h2>
+        <p><sup>1</sup> As a teenager, life became more challenging but exciting. <i>I started discovering</i> my passions. <sup>2</sup> High school was a mix of fun and responsibilities. <sup>3</sup> I enjoyed subjects like science and literature...</p>
+        
+        <h2>College Years</h2>
+        <p><sup>1</sup> College brought new experiences and opportunities. <em>It was a time of learning</em> and growth. <sup>2</sup> I met amazing people and made lifelong friendships. <sup>3</sup> Balancing academics and social life was tough...</p>
+    </div>
+</body>
+</html>
